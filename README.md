@@ -1,1 +1,1 @@
-# Adventures_in_Genome_Assembly
+# Repository for analysis, scripts, and materials generalizable across various genome assembly projects.
